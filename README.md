@@ -1,7 +1,7 @@
 # 🤖 AI Chatbot Workflow Automation using n8n
 
 <p align="center">
-  <img src="https://n8n.io/favicon.ico" alt="n8n Logo" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/N8n_logo.svg/512px-N8n_logo.svg.png" alt="n8n Logo" width="250" />
 </p>
 
 <p align="center">
